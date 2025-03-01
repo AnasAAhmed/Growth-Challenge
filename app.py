@@ -58,4 +58,4 @@ if st.button("Generate Text"):
 
 # 💡 Footer
 st.markdown("---")
-st.markdown("🚀 Built with ❤️ using Streamlit and Google's Gemini AI by Aans Ahmed For Sir Zia's Challenge.")
+st.markdown("🚀 Built with ❤️ using Streamlit and Google's Gemini AI by Anas Ahmed For Sir Zia's Challenge.")

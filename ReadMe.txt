@@ -1,17 +1,21 @@
 📄 README.md
-# 🚀 Growth Mindset Challenge: ConWrite AI
+# 🚀 Growth Mindset Challenge: ImageWrite AI (Built it within 30 minutes)
 
-Welcome to **ConWrite AI** — a project built as part of a **Growth Mindset Challenge** from our mentor. The challenge was to create something **different** from the tutorial provided, and this is my unique take on it.  
+Welcome to **ImageWrite AI** — a project built as part of a **Growth Mindset Challenge** from our mentor sir zia khan. The challenge was to create something **different** from the tutorial provided, and this is my unique take on it.  
 
 While the idea may not be entirely new, it’s my personal approach, reflecting how I applied what I learned in a different way. 💡  
 
 ---
 
 ## 🌟 **About the Project**  
-**ConWrite AI** allows users to:  
+**ImageWrite AI** allows users to:  
 - 🖼️ Upload an image or provide an image URL  
 - ✍️ Enter a custom prompt  
 - 🤖 Generate AI-powered text insights based on the image and prompt  
+
+**AI Chatbot** allows users to:  
+- ✍️ Enter a custom prompt  
+- 🤖 Generate AI-powered chat based on the prompt 
 
 It uses **Google Gemini AI** to analyze images and provide meaningful text descriptions and responses. The project is built with:  
 - **Streamlit** (for the interactive web app)  
