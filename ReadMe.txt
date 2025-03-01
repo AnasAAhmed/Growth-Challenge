@@ -1,7 +1,7 @@
 📄 README.md
-# 🚀 Growth Mindset Challenge: ImageWrite AI (Built it within 30 minutes)
+# 🚀 Growth Mindset Challenge: ImageWrite AI
 
-Welcome to **ConWrite AI** — a project built as part of a **Growth Mindset Challenge** from our mentor. The challenge was to create something **different** from the tutorial provided, and this is my unique take on it.  
+Welcome to **ImageWrite AI** — a project built as part of a **Growth Mindset Challenge** from our mentor. The challenge was to create something **different** from the tutorial provided, and this is my unique take on it.  
 
 While the idea may not be entirely new, it’s my personal approach, reflecting how I applied what I learned in a different way. 💡  
 
